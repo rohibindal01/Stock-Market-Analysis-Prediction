@@ -113,18 +113,3 @@ All models use `sklearn.pipeline.Pipeline` with `StandardScaler`.
 - TimeSeriesSplit for proper temporal cross-validation
 - Multi-model comparison with visual evaluation
 
----
-
-## 📌 Future Improvements
-
-- [ ] Add LSTM / deep learning model
-- [ ] Incorporate sentiment analysis (news headlines)
-- [ ] Multi-ticker portfolio analysis
-- [ ] Backtesting with a simple trading strategy
-- [ ] Hyperparameter tuning with Optuna
-
----
-
-## 📄 License
-
-MIT
