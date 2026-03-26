@@ -93,7 +93,7 @@ All models use `sklearn.pipeline.Pipeline` with `StandardScaler`.
 
 ---
 
-## 📉 Sample Results (AAPL)
+## 📉 Results (AAPL)
 
 | Model | Test AUC | CV AUC |
 |---|---|---|
