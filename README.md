@@ -34,7 +34,7 @@ stock-market-analysis/
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/YOUR_USERNAME/stock-market-analysis.git
+git clone https://github.com/rohibindal01/stock-market-analysis.git
 cd stock-market-analysis
 
 # 2. Install dependencies
